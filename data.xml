@@ -1,3 +1,4 @@
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
 import React, { useState, useEffect, useMemo } from 'react';
 import { 
   LayoutGrid, 
@@ -759,3 +760,4 @@ const AdminModal = ({ title, children, onClose }) => (
 );
 
 export default App;
+
